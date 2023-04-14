@@ -1,0 +1,7 @@
+package com.company.consInjection;
+
+public class Person {
+
+	private int personId;
+	private String personName;
+}

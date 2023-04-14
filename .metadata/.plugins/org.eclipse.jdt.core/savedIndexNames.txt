@@ -1,0 +1,16 @@
+INDEX VERSION 1.131+D:\Java FrameWorks\Spring YT\.metadata\.plugins\org.eclipse.jdt.core
+3126434910.index
+3102715728.index
+552215719.index
+1667694954.index
+3403434163.index
+1860970342.index
+1732506952.index
+1370829325.index
+1865797976.index
+2235267327.index
+2375668808.index
+4084138924.index
+1593057600.index
+395650446.index
+760091825.index

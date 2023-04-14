@@ -1,0 +1,13 @@
+package com.company.consInjection;
+
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class MyProgram {
+
+	public static void main(String[] args) {
+
+     new ClassPathXmlApplicationContext("com/company/consInjection/person.xml");
+
+	}
+
+}

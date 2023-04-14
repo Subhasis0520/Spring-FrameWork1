@@ -1,0 +1,6 @@
+package com.company.lifeCycle;
+
+public class Pepsi {
+
+	private int price;
+}

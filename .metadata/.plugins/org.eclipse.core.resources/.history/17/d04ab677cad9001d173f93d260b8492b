@@ -1,0 +1,13 @@
+package com.company.springCore;
+
+import java.applet.AppletContext;
+
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class App {
+  public static void main(String[] args) {
+    System.out.println("Hello World!");
+    
+     AppletContext ac = new ClassPathXmlApplicationContext("student.xml");
+  }
+}
